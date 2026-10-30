@@ -1,0 +1,22 @@
+{
+  "name": "project-zomboid-mod-menu",
+  "displayName": "Project Zomboid Mod Menu",
+  "programType": "mod-menu",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Module groups",
+    "Character profiles",
+    "World settings"
+  ],
+  "topics": [
+    "project-zomboid-mod-menu",
+    "project-zomboid-tools",
+    "project-zomboid-menu",
+    "project-zomboid-settings",
+    "project-zomboid-configs",
+    "project-zomboid-module-groups",
+    "project-zomboid-character-profiles"
+  ]
+}
